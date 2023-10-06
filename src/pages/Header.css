@@ -1,0 +1,16 @@
+.head{
+    background-color: black;
+    width: 100%;
+    height: auto;
+}
+.head img{
+    margin-left: 70px;
+    align-items: center;
+    margin-top: 18px;
+    margin-bottom: 17px;
+}
+@media only screen and (max-width: 280px){
+    .head img{
+        margin-left: 20px;
+    }
+}
